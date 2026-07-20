@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-9pnxcc.juragan89site.store/sitemap.xml
